@@ -1,7 +1,3 @@
-Here’s a well-structured `README.md` file for your GitHub repository based on your NumPy project. It includes a clear description, steps, and key findings:
-
----
-
 # NumPy Mini Project: Census Data Analysis
 
 ## 📌 Project Overview
